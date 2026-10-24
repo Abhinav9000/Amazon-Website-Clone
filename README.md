@@ -1,4 +1,4 @@
 # Amazon-Website-Clone
 Amazon homepage clone built using HTML and CSS to practice front-end web development. JavaScript functionality will be added in future updates.
 <br>
-<h1>Author:-Abhinav Pathak</h1>
+<h4>Author:-Abhinav Pathak</h4>
